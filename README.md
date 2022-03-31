@@ -7,3 +7,4 @@ Based on "MinIO Docker Quickstart Guide" at https://docs.min.io/docs/minio-docke
 
 Video "This is MinIO" at https://www.youtube.com/watch?v=vF0lQh0XOCs
 
+Minio Slack Channel at minio.slack.com
